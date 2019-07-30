@@ -7,7 +7,7 @@ permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
+...now ciube wants to use this website to be a "bullhorn" for this multi space about to change the reality of technology.
 
 *Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
 
