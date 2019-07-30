@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "Ciube.com mission."
+teaser: "Since 2012 the token space along with AI have changed the expectations of what the future of technology will turn into. NOW robotics is growing into a field that seems out of control and many are looking for a trend that can be used to bring this growing technology under control..."
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
