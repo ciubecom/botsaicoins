@@ -9,7 +9,7 @@ header:
 ---
 ...now ciube wants to use this website to be a "bullhorn" for this multi space about to change the reality of technology.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+*GITHUB* is my leader in getting the code out, so it makes sence that github.com should be the home for a long term view and news about fields that are evolving into a powerful planetary force for change – *hopefully* – ciube made a wise choice.
 
 
 ## Features
