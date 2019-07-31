@@ -217,8 +217,8 @@ disqus_shortname: 1feelingresponsive
 #
 
 sass:
-    sass_dir : _sass1
-    style    : :compressed1
+    sass_dir : _sass
+    style    : :compressed
 
 
 #       ___                __      __  _
