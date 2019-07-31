@@ -24,6 +24,8 @@ header:
 
 
 
+CIUBE would like to give a big thanks to the creator of the theme used for the website.  We are leaving in place the following paragraph written by the author of the theme because it clearly relates how technology can shape our lives.
+
 ## ...
 
 [Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
