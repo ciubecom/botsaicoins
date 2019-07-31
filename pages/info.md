@@ -12,23 +12,19 @@ header:
 *GITHUB* is the leader in getting the code out, so it makes sence that github.com should be the home for a long term view and news about fields that are evolving into a powerful planetary force for change – *hopefully* – ciube made a wise choice.
 
 
-## Features
+## CIUBE.COM MISSION
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+* [Professional Site ][8], [Informative Videos][9], [News and Reviews][10], [Interviews][11],...
+* TOKEN Blockchain developments
+* Robotics vision and trends
+* AI and its benefits and threats
+* NEWS Aggregator
+* Video shares that inform the public
+* POSTS that bring understanding and questions
 
 
 
-## I got inspired by...
+## ...
 
 [Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
 
